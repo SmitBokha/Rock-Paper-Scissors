@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game
+# Rock Paper Scissors Game (👊,✌️,✋)
 
 ## Introduction
 This project is a simple implementation of the classic rock-paper-scissors game using :
